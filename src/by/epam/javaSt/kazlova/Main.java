@@ -25,5 +25,8 @@ public class Main {
 
         Task9 task9=new Task9();
         System.out.println(task9.run(new int[]{1, 1, 1, 1, 1}, new int[]{0, 0, 0}, 2));
+        
+         Task10 task10 = new Task10();
+        System.out.println(task10.run(6));
     }
 }
